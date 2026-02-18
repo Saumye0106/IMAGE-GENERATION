@@ -1,4 +1,4 @@
-# Stable Diffusion Image Generation
+# 🔥Stable Diffusion Image Generation
 
 Welcome to the **Stable Diffusion Image Generation** repository! This project utilizes the powerful [Stable Diffusion](https://github.com/CompVis/stable-diffusion) model by Stability AI to generate high-quality images from textual prompts.
 
